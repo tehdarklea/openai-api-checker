@@ -42,3 +42,11 @@ npx api-dna-checker api.openai.com
 ---
 
 **[api-dna.com](https://api-dna.com)** • **[Ranking](https://api-dna.com/ranking)** • **[How It Works](https://api-dna.com/how-it-works)**
+
+---
+
+## 🔗 Related Projects
+
+- **[API-DNA](https://api-dna.com)** — API fingerprint verification engine
+- **[TokenC2C](https://tokenc2c.xyz)** — P2P marketplace for API computing power
+- **[SKILL.COFFEE](https://skill.coffee)** — 4800+ AI agent skills marketplace
